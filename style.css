@@ -1,0 +1,129 @@
+/* 
+Theme name: Halim
+Theme URI: https://wordpress.org/themes/halim/
+Author: Nitu Barmon
+Author URI: https://wordpress.org/
+Text Domain: halim
+Version: 1.0
+Description: Halim is a personal portfolio Theme
+Requires at least: 5.9
+Tested up to: 5.9
+Requires PHP: 5.6
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, rtl-language-support, sticky-post, threaded-comments
+
+
+*/
+.wp-caption{}
+.gallery-caption{}
+.wp-caption-text{}
+.bypostauthor{}
+
+
+
+
+/* Comment CSS */
+.comment-author.vcard img {
+  max-width: 60px;
+  border-radius: 50%;
+  position: absolute;
+  left: 0;
+}
+.commentlist {
+  padding: 0;
+  list-style: none;
+  margin-top: 5px;
+}
+.commentlist ol li {
+  position: relative;
+}
+.commentlist ol li img{
+  position: absolute;
+}
+.commentlist li {
+  padding-left: 59px;
+}
+.children{
+  padding: 0;
+  list-style: none;
+  margin-top: 10px;
+}
+.children .comment-author.vcard img {
+  left: 60px;
+}
+.comments input, .comments textarea {
+	margin-bottom: 5px;
+}
+#wp-comment-cookies-consent {
+	width: auto;
+}
+
+.breadcumb li a {
+	color: #fff;
+  transition: .3s;
+}
+.breadcumb li a:hover {
+	color: #333;
+}
+
+/* 404 page CSS*/
+
+.page-404-content {
+  text-align: center;
+}
+.page-404-content h4 {
+	font-size: 18px;
+	border-bottom: 1px solid #ddd;
+	padding-bottom: 10px;
+	margin-bottom: 20px;
+}
+.page-404-content h1 {
+	margin: 15px 0;
+}
+.page-404-content {
+	text-align: center;
+}
+.error_search input[type="text"] {
+	background: #fff;
+	border: 1px solid #ddd;
+	padding: 5px 5px;
+}
+.error_search input[type="submit"] {
+	background: #c91d6c;
+	border: 1px solid #c91d6c;
+	padding: 5px 5px;
+	margin: 0;
+	color: #fff;
+	transition: .5s;
+}
+/* Widgets CSS */
+.wp-block-search label{
+  display: none;
+}
+.wp-block-search input{
+  position: relative;
+  border: 1px solid #ddd;
+  width: 100%;
+  padding: 5px;
+}
+.wp-block-search button{
+  position: absolute;
+  right: 0;
+  width: auto;
+  background-color: #635CDB;
+  border: 0;
+  padding: 6px 15px;
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+/* Project Gallery */
+.project-gallery {
+	display: flex;
+}
+.project-gallery img {
+	margin: 0 5px;
+  width: 300px!important;
+}

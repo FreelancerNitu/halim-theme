@@ -1,0 +1,591 @@
+# Copyright (C) 2022 rank-math
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#: 404.php:10
+msgid "404 Not Found"
+msgstr ""
+
+#: 404.php:13
+msgid "Home"
+msgstr ""
+
+#: 404.php:27
+msgid "404 Error - Sorry Not Found!"
+msgstr ""
+
+#: 404.php:28
+msgid "Looks Like Something was wrong"
+msgstr ""
+
+#: 404.php:32
+msgid "Homepage"
+msgstr ""
+
+#: inc/breadcumb.php:8
+msgid "Home"
+msgstr ""
+
+#: search.php:10 
+msgid "Search"
+msgstr ""
+
+#: inc/halim-options.php:10 
+msgid "Halim Options"
+msgstr ""
+
+#: inc/halim-options.php:23
+msgid "Header Options"
+msgstr ""
+
+#: inc/halim-options.php:30
+msgid "Header Left"
+msgstr ""
+
+#: inc/halim-options.php:36
+msgid "Email Address"
+msgstr ""
+
+#: inc/halim-options.php:42
+msgid "Phone"
+msgstr ""
+
+#: inc/halim-options.php:51
+msgid "Header Icons"
+msgstr ""
+
+#: inc/halim-options.php:56
+msgid "Header Icons"
+msgstr ""
+
+#: inc/halim-options.php:62
+msgid "Social Title"
+msgstr ""
+
+#: inc/halim-options.php:67
+msgid "Social Link"
+msgstr ""
+
+#: inc/halim-options.php:72
+msgid "Social Icon"
+msgstr ""
+
+#: inc/halim-options.php:83
+msgid "Select Link Taget"
+msgstr ""
+
+#: inc/halim-options.php:104
+msgid "Logo"
+msgstr ""
+
+#: inc/halim-options.php:110
+msgid "Upload Logo"
+msgstr ""
+
+#: inc/halim-options.php:119
+msgid "Header Styling"
+msgstr ""
+
+#: inc/halim-options.php:124
+msgid "Header Background Color / Image"
+msgstr ""
+
+#: inc/halim-options.php:130
+msgid "Header Text Color"
+msgstr ""
+
+#: inc/halim-options.php:136
+msgid "Header Icon Color"
+msgstr ""
+
+#: inc/halim-options.php:142
+msgid "Header typography"
+msgstr ""
+
+#: inc/halim-options.php:148
+msgid "Header Link Hover"
+msgstr ""
+
+#: inc/halim-options.php:161
+msgid "About Section"
+msgstr ""
+
+#: inc/halim-options.php:167
+msgid "About Section Title"
+msgstr ""
+
+#: inc/halim-options.php:172
+msgid "Sub Title"
+msgstr ""
+
+#: inc/halim-options.php:174
+msgid "Write About Section Sub Title Here"
+msgstr ""
+
+#: inc/halim-options.php:179
+msgid "Title"
+msgstr ""
+
+#: inc/halim-options.php:181
+msgid "Write About Section Title Here"
+msgstr ""
+
+#: inc/halim-options.php:186
+msgid "Description"
+msgstr ""
+
+#: inc/halim-options.php:188
+msgid "Write About Section Description Here"
+msgstr ""
+
+#: inc/halim-options.php:197
+msgid "About Page Content"
+msgstr ""
+
+#: inc/halim-options.php:202
+msgid "About Page Title"
+msgstr ""
+
+#: inc/halim-options.php:204
+msgid "Write About Page Title Here"
+msgstr ""
+
+#: inc/halim-options.php:209
+msgid "About Page Description"
+msgstr ""
+
+#: inc/halim-options.php:211
+msgid "Write About Page Description Here"
+msgstr ""
+
+#: inc/halim-options.php:216
+msgid "About Page Link"
+msgstr ""
+
+#: inc/halim-options.php:218
+msgid "Write About Page Link Here"
+msgstr ""
+
+#: inc/halim-options.php:227
+msgid "About Page Features"
+msgstr ""
+
+#: inc/halim-options.php:232
+msgid "About Page Features"
+msgstr ""
+
+#: inc/halim-options.php:239
+msgid "About Features Titel"
+msgstr ""
+
+#: inc/halim-options.php:242
+msgid "Write About Feature Title Here"
+msgstr ""
+
+#: inc/halim-options.php:246
+msgid "About Features Icon"
+msgstr ""
+
+#: inc/halim-options.php:248
+msgid "Add About Feature Icon Here"
+msgstr ""
+
+#: inc/halim-options.php:252
+msgid "About Features Description"
+msgstr ""
+
+#: inc/halim-options.php:255
+msgid "Write About Features Description Here"
+msgstr ""
+
+#: inc/halim-options.php:265
+msgid "About Information"
+msgstr ""
+
+#: inc/halim-options.php:269
+msgid "About FAQ"
+msgstr ""
+
+#: inc/halim-options.php:271
+msgid "Add New FAQ"
+msgstr ""
+
+#: inc/halim-options.php:275
+msgid "FAQ Title"
+msgstr ""
+
+#: inc/halim-options.php:278
+msgid "Write FAQ Title Here"
+msgstr ""
+
+#: inc/halim-options.php:282
+msgid "FAQ Description"
+msgstr ""
+
+#: inc/halim-options.php:285
+msgid "Write FAQ Description Here"
+msgstr ""
+
+#: inc/halim-options.php:295
+msgid "About Skills"
+msgstr ""
+
+#: inc/halim-options.php:299
+msgid "About Skills"
+msgstr ""
+
+#: inc/halim-options.php:301
+msgid "Add New Skill"
+msgstr ""
+
+#: inc/halim-options.php:305
+msgid "Skill Title"
+msgstr ""
+
+#: inc/halim-options.php:308
+msgid "Write Here Skill Titile"
+msgstr ""
+
+#: inc/halim-options.php:312
+msgid "Skill Number"
+msgstr ""
+
+#: inc/halim-options.php:315
+msgid "Write Here Skill Number"
+msgstr ""
+
+#: inc/halim-options.php:327
+msgid "Service Section"
+msgstr ""
+
+#: inc/halim-options.php:333
+msgid "Service Section Title"
+msgstr ""
+
+#: inc/halim-options.php:340
+msgid "Write Service Section Sub Title Here"
+msgstr ""
+
+#: inc/halim-options.php:345
+msgid "Title"
+msgstr ""
+
+#: inc/halim-options.php:347
+msgid "Write Service Section Title Here"
+msgstr ""
+
+#: inc/halim-options.php:352
+msgid "Description"
+msgstr ""
+
+#: inc/halim-options.php:354
+msgid "Write Service Section Description Here"
+msgstr ""
+
+#: inc/halim-options.php:365
+msgid "Counter Option"
+msgstr ""
+
+#: inc/halim-options.php:370
+msgid "Counter List"
+msgstr ""
+
+#: inc/halim-options.php:372
+msgid "Add New Counter"
+msgstr ""
+
+#: inc/halim-options.php:376
+msgid "Counter Icon"
+msgstr ""
+
+#: inc/halim-options.php:381
+msgid "Counter Title"
+msgstr ""
+
+#: inc/halim-options.php:384
+msgid "Write Here Counter Title"
+msgstr ""
+
+#: inc/halim-options.php:388
+msgid "Counter Number"
+msgstr ""
+
+#: inc/halim-options.php:391
+msgid "Write Here Counter Number"
+msgstr ""
+
+#: inc/halim-options.php:403
+msgid "Testimonial Section"
+msgstr ""
+
+#: inc/halim-options.php:411
+msgid "Testimonial Section Title"
+msgstr ""
+
+#: inc/halim-options.php:415
+msgid "Testimonial Sub Title"
+msgstr ""
+
+#: inc/halim-options.php:417
+msgid "Write Testimonial Section Sub Title Here"
+msgstr ""
+
+#: inc/halim-options.php:422
+msgid "Testimonial Title"
+msgstr ""
+
+#: inc/halim-options.php:424
+msgid "Write Testimonial Section Title Here"
+msgstr ""
+
+#: inc/halim-options.php:429
+msgid "Testimonial Description"
+msgstr ""
+
+#: inc/halim-options.php:431
+msgid "Write Testimonial Section Description Here"
+msgstr ""
+
+#: inc/halim-options.php:442
+msgid "Team Section"
+msgstr ""
+
+#: inc/halim-options.php:449
+msgid "Team Section Title"
+msgstr ""
+
+#: inc/halim-options.php:454
+msgid "Team Sub Title"
+msgstr ""
+
+#: inc/halim-options.php:456
+msgid "Write Team Section Sub Title Here"
+msgstr ""
+
+#: inc/halim-options.php:461
+msgid "Team Title"
+msgstr ""
+
+#: inc/halim-options.php:463
+msgid "Write Team Section Title Here"
+msgstr ""
+
+#: inc/halim-options.php:468
+msgid "Team Description"
+msgstr ""
+
+#: inc/halim-options.php:470
+msgid "Write Team Section Description Here"
+msgstr ""
+
+#: inc/halim-options.php:481
+msgid "Lates News Section"
+msgstr ""
+
+#: inc/halim-options.php:488
+msgid "Latest News Section Title"
+msgstr ""
+
+#: inc/halim-options.php:493
+msgid "Latest News Sub Title"
+msgstr ""
+
+#: inc/halim-options.php:495
+msgid "Write Latest News Section Sub Title Here"
+msgstr ""
+
+#: inc/halim-options.php:500
+msgid "Latest News Title"
+msgstr ""
+
+#: inc/halim-options.php:503
+msgid "Write Latest News Section Title Here"
+msgstr ""
+
+#: inc/halim-options.php:507
+msgid "Latest News Description"
+msgstr ""
+
+#: inc/halim-options.php:509
+msgid "Write Latest News Section Description Here"
+msgstr ""
+
+#: inc/halim-options.php:520
+msgid "CTA Option"
+msgstr ""
+
+#: inc/halim-options.php:525
+msgid "Show CTA"
+msgstr ""
+
+#: inc/halim-options.php:531
+msgid "CTA Title"
+msgstr ""
+
+#: inc/halim-options.php:535
+msgid "Write CTA Title Here"
+msgstr ""
+
+#: inc/halim-options.php:539
+msgid "CTA Sub Title"
+msgstr ""
+
+#: inc/halim-options.php:547
+msgid "CTA Button Text"
+msgstr ""
+
+#: inc/halim-options.php:551
+msgid "Write CTA Button Text Here"
+msgstr ""
+
+#: inc/halim-options.php:555
+msgid "CTA Button Url"
+msgstr ""
+
+#: inc/halim-options.php:559
+msgid "Write CTA Button Url Here"
+msgstr ""
+
+#: inc/halim-options.php:569
+msgid "Contact Option"
+msgstr ""
+
+#: inc/halim-options.php:574
+msgid "Contact Info"
+msgstr ""
+
+#: inc/halim-options.php:576
+msgid "Add New Contact Item"
+msgstr ""
+
+#: inc/halim-options.php:580
+msgid "Contact Info Title"
+msgstr ""
+
+#: inc/halim-options.php:582
+msgid "Write Here Contact Info Title"
+msgstr ""
+
+#: inc/halim-options.php:586
+msgid "Contact Info Icon"
+msgstr ""
+
+#: inc/halim-options.php:588
+msgid "Write Here Conatat Info Icon"
+msgstr ""
+
+#: inc/halim-options.php:592
+msgid "Contact Info Description"
+msgstr ""
+
+#: inc/halim-options.php:594
+msgid "Write Here Contact Info Description"
+msgstr ""
+
+#: inc/halim-options.php:601
+msgid "Contact Map"
+msgstr ""
+
+#: inc/halim-options.php:602
+msgid "Add Your Contact Map Here"
+msgstr ""
+
+#: inc/halim-options.php:613
+msgid "Copyrights Option"
+msgstr ""
+
+#: inc/halim-options.php:618
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/halim-options.php:621
+msgid "Write Here Your Copyright Text"
+msgstr ""
+
+#: inc/halim-options.php:625
+msgid "Copyright Social Links"
+msgstr ""
+
+#: inc/halim-options.php:627
+msgid "Add New Social Link"
+msgstr ""
+
+#: inc/halim-options.php:631
+msgid "Copyright Social Title"
+msgstr ""
+
+#: inc/halim-options.php:633
+msgid "Add Your Copyright Social Title Here"
+msgstr ""
+
+#: inc/halim-options.php:637
+msgid "Copyright Social Icon"
+msgstr ""
+
+#: inc/halim-options.php:639
+msgid "Add Your Copyright Social Icon Here"
+msgstr ""
+
+#: inc/halim-options.php:643
+msgid "Copyright Social Url"
+msgstr ""
+
+#: inc/halim-options.php:645
+msgid "Add Your Social URL Here"
+msgstr ""
+
+#: inc/halim-options.php:651
+msgid "Select Link Target"
+msgstr ""
+
+#: inc/halim-options.php:654
+msgid "Open In Same Tab"
+msgstr ""
+
+#: inc/halim-options.php:655
+msgid "Open In New Tab"
+msgstr ""
+
+#: inc/halim-options.php:656
+msgid "Open In New Window"
+msgstr ""
+
+#: single-portfolio.php:58
+msgid "Technology Used"
+msgstr ""
+
+#: single-portfolio.php:77
+msgid "Project Features"
+msgstr ""
+
+#: index.php:7
+msgid "Blog"
+msgstr ""
+
+#: index.php:10
+msgid "Blog"
+msgstr ""
+
+#: index.php:40
+msgid "read more"
+msgstr ""
+
+#: archive.php:44
+msgid "read more"
+msgstr ""
+
+#: template-home.php:89
+msgid "read more"
+msgstr ""
+
+#: template-home.php:119
+msgid "faq"
+msgstr ""
+
+#: template-home.php:156
+msgid "our skills"
+msgstr ""
+
+#: template-home.php:439
+msgid "read more"
+msgstr ""
+
